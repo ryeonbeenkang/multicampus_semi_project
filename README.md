@@ -6,7 +6,13 @@
 
 ## Description
 
-Including myself, the vast majority of people enjoy watching movies. 
+   Including myself, the vast majority of people enjoy watching movies. Whenever i finish a good movie, there's always a remaining question, "What should i watch next?." I've decided to analize a set of data and to see what i should watch next. 
+
+   The dataset from KOBIS allows me to understand the best 'director','production company','distributor','importer','nationality','genre','rating','run time', 'actors', and 'writers.' I give each category a point (1~5points) based on how the average people think as 'key factors.'
+
+   There are three upcoming movies that piqued my interest and I've decided to calculate their points based on my study above.
+
+   In conclusion, two out of three movies have more than 50% chance of going viral(more than 1 million viewers) and i've summurized the step-by-step guid in a separate PDF(not uploaded here).
 
 ## Getting Started
 
@@ -56,3 +62,11 @@ A few advice from the coach Kim as follows.
 ## Author
 Ryeonbeen Kang
 ryeonbeenk@gmail.com
+
+## References
+* Seaborn - https://seaborn.pydata.org/
+* Google BigQuery - https://cloud.google.com/python/docs/reference/bigquery/latest
+* Big Data Map(in Korean) - https://www.bigdata-map.kr/datastory
+* Culture Big Data Platform(in Korean) - https://www.culture.go.kr/bigdata/user/data_market/detail.do?id=9d00dd80-4a54-11eb-af9a-4b03f0a582d6
+* KOFIC(KOBIS) Data(in Korean) - https://www.kobis.or.kr/kobis/business/stat/offc/searchOfficHitTotList.do?searchMode=year
+
