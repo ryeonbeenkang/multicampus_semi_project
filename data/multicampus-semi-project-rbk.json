@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "multicampus-semi-project-rbk",
+  "private_key_id": "9c52252b891945bed98de85e2733d2fa091fe9ba",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCtpbHFMnnOK2kz\nDUBGhNjNTfnPpLzxTY20B31Gq6/9+9yq0G2VZ29DuCoi/TMxl2jK/3n5yTwX5Atl\nIu/vxdc93TX+dLTjyT1dgkyEI4kItQUzjYuX0bT5yMic4orTw7jJ0vaUXnjZzOap\nOLkJyVSC1t+mSuMBlALd6f2iJqf51OLdDGTmCpxNc43X+TsoPAbOQqG97OMvWweo\neFUs8Sd/8T4+KoiQ5X0gAtXunNiWwOMk9RBVexx3/cB5BI0C8j9l0pY1zmYt8qhV\nYVJV2Al9vENQY63NLnP02RsPE54iMNwfg+DAkbRTrgqwl3h9QlPDEtycYLWcsnmG\nW2QW1VprAgMBAAECggEADdol8EEyjkvQPI5WDkoSsW4C+5l8qRMytqXSTIztoSky\nVT4DP+PccF6Enf3s04vshCUVKePvs0gx0IOU+F+j5/95iy7sLy+igY8fY3siN1uZ\nap9j/1xvP23Q8xLvWC1I1HDL0tImedlqnR01RZ6V60oQ1UcsDLgt8l30KbdDtx4u\nxSE237o0xUksIG2P5/NRhnbyVDIIhFLz5mSp00sZD9m0YuVg5nQ4lCt81h1ONJV3\nf5ufy4mW+g2yDg4AbK91kNocgXY0FZEp8/UQv03hG9odlKoKB6245STirmdg/iOJ\nqcyFhyU6T2TozZt8Xrj5HjZRfhw8fYZjLUyNJHdN4QKBgQDXmvNV4BABeuREu+zt\ndQkwt/7z9ZrAVi9CmKA+pTQg5sNBEnOFzIUqaEgYFa/+K8ol34LUP6Ir4f4dicWe\ncadpbwc6DEexpthTI9ze2czIXG8GnT7pnI68H3fMbA06BYhGrJ8IxcdyrxQg20bR\neMy38fen7SeA1u7rdCDEItKt/QKBgQDOLlDhiShp4Vm+jV+H/qVY1vnMLyJPMezi\nknXyfhh6mpxyd232PV43RufwG2pjoQogU/vDeLFydtKU2CFuJGUq9KfXYmQoGfFr\nd6+0Gl91JXPy6snyhtFwye67kw8J8CuhIq1AAIf7S7cWkFrvxbc7fU1c0QYnK93E\nV5RoqyAihwKBgQCglutUNVX2pEBN6eOpYpj7zrB5qaAgTpFY+zGwN4DCWN9qIoIl\nUJaHZbD9L3osyRUCbJ6X1OXH5cZO3gVx5JmbcHVjiS4FZo6OLpIe8v8S5bZUqN7p\nRhESkiW6/2hCpUhBy+WQtS+/fiRx7KGs+FsTT4j1bTEVSAIhIhgdvwpJSQKBgHvo\nxd7lKQ6IygCEwfbfCMvdVn5pjTr/DBgWYR/8vAViycbZE5K6ytZ5nIZmU4fQjl9j\nWZjd/faGhoPBaEXjRZGNOxlsHjkjbj1hzox0lQ24FnjUtc01TMV19i1wccdNOUs7\npdci+pYBqOS8mIokzrvH0CiJziLYcAzBfYVx4nwdAoGAbzNOhgFIC37BlsY6+cFK\n8cUkZDNFhlO7CxhNsduHTn07DTkk+w7lxnKj9bBG5OhbpyPzIsx7Fsmfvi9ksCeN\n08iE31iB6Uhw437pnRcWFoGnFoiMGTCrsJeCWgye6JBlKhHfUcaq65yAZYmHT8/0\n0bdGg+eQsHRmfY7ClMWVWXA=\n-----END PRIVATE KEY-----\n",
+  "client_email": "semi-project-rbk@multicampus-semi-project-rbk.iam.gserviceaccount.com",
+  "client_id": "118237034138140768925",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/semi-project-rbk%40multicampus-semi-project-rbk.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
