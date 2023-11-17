@@ -1,9 +1,10 @@
-# multicampus_semi_project
-This project was done in Multicampus between Nov 14th, 2023 ~ Nov 20th, 2023 to review what i learned in the first month
+# Multicampus_semi_project
+This is my first project as a Data Analyst and the project was done with Multicampus(based in Seoul, Gangnam) between Nov 14th, 2023 ~ Nov 20th, 2023 (4.5 days) to review what i learned in the first month.
 
-# Project Title
+This project is to analize and predict three movies to be released in South Korea in Nov & Dec 2023.
 
-Simple overview of use/purpose.
+In order to execute the analisys and prediction, I've used a dataset from KOBIS and crawled Korean search engine Naver.
+
 
 ## Description
 
@@ -13,13 +14,21 @@ An in-depth paragraph about your project and overview of use.
 
 ### Dependencies
 
-* Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-* ex. Windows 10
+* Windows10
+* Jupyter Notebook
+* Google Cloud Platform(BigQuery, Cloud Storage)
+* Seaborn / Matplotlib
+* Requests 
+* BeautifulSoup 
+* Time 
+* CSV
+* collections module Counter
+* Encoding='UTF-8' / plt.rc('font', family='Malgun Gothic') - to use Korean letters in the visualization tools
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
+* Except for BigQuer, all libraries are usable on Jupyter Notebook. You can simply call them with "!pip install"
+* A dataset from KOBIS and crawled data from Naver should be uploaded on Cloud Storeage before visualizing data
 
 ### Executing program
 
@@ -31,7 +40,7 @@ code blocks for commands
 
 ## Help
 
-Any advise for common problems or issues.
+Few advise from coach, HeongJun Kim  advise for common problems or issues.
 ```
 command to run if program contains helper info
 ```
