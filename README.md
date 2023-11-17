@@ -10,7 +10,7 @@
 
    Including myself, the vast majority of people enjoy watching movies. Whenever i finish a good movie, there's always a remaining question, "What should i watch next?." I've decided to analyze a set of data and to see what i should watch next. 
 
-   The dataset from KOBIS allows me to understand the best 'director','production company','distributor','importer','nationality','genre','rating','run time', 'actors', and 'writers.' I give each category a point (1~5points) based on how the average people think as 'key factors.'
+   The dataset from KOBIS(1962.11.03 ~ 2021.7.15 with 23,403 movie data) allows me to understand the best 'director','production company','distributor','importer','nationality','genre','rating','run time', 'actors', and 'writers.' I give each category a point (1~5points) based on how the average people think as 'key factors.'(According to the analysis, the number of movies with more than 1 million viewers is 777)
 
    There are three upcoming movies that piqued my interest and I've decided to calculate their points based on my study above.
 
