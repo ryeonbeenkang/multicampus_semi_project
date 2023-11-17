@@ -71,5 +71,3 @@ ryeonbeenk@gmail.com
 * Big Data Map(in Korean) - https://www.bigdata-map.kr/datastory
 * Culture Big Data Platform(in Korean) - https://www.culture.go.kr/bigdata/user/data_market/detail.do?id=9d00dd80-4a54-11eb-af9a-4b03f0a582d6
 * KOFIC(KOBIS) Data(in Korean) - https://www.kobis.or.kr/kobis/business/stat/offc/searchOfficHitTotList.do?searchMode=year
-
->>>>>>> 071e81ca3a2623797d37870f146cd4c7b6a2328d
