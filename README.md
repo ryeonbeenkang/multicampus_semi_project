@@ -29,7 +29,7 @@
 * Time 
 * CSV
 * collections module Counter
-* Encoding='UTF-8' / plt.rc('font', family='Malgun Gothic') - to use Korean letters in the visualization tools
+* Encoding='UTF-8' / plt.rc('font', family='Malgun Gothic') - to use Korean letters in visualization graphs
 
 
 ### Installing
