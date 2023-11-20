@@ -1,5 +1,5 @@
 # Multicampus_semi_project
-   This is my first project as a Data Analyst and the project was done with Multicampus(based in Seoul, Gangnam) between Nov 14th, 2023 ~ Nov 20th, 2023 (4.5 business days) to review what i learned in the first month.
+   This is my first project as a Data Analyst and the project was done with Multicampus(based in Gangnam, Seoul) between Nov 14th, 2023 ~ Nov 20th, 2023 (4.5 business days) to review what i learned in the first month.
    
    This project is to analyze and predict three movies to be released in South Korea in Nov & Dec 2023.
    
